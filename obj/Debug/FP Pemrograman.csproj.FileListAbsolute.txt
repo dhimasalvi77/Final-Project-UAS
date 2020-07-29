@@ -1,0 +1,6 @@
+E:\pemrograman\FP Pemrograman\FP Pemrograman\bin\Debug\FP Pemrograman.exe.config
+E:\pemrograman\FP Pemrograman\FP Pemrograman\bin\Debug\FP Pemrograman.exe
+E:\pemrograman\FP Pemrograman\FP Pemrograman\bin\Debug\FP Pemrograman.pdb
+E:\pemrograman\FP Pemrograman\FP Pemrograman\obj\Debug\FP Pemrograman.csprojResolveAssemblyReference.cache
+E:\pemrograman\FP Pemrograman\FP Pemrograman\obj\Debug\FP Pemrograman.exe
+E:\pemrograman\FP Pemrograman\FP Pemrograman\obj\Debug\FP Pemrograman.pdb
